@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "group-1_sia_midterm",
+  "version": "1.0.0",
+  "description": "midterm_examination",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BebeFumi/Group1.git"
+  },
+  "keywords": [
+    "sia",
+    "activities",
+    "midterm"
+  ],
+  "author": "Valencia, Antonia Marie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BebeFumi/Group1/issues"
+  },
+  "homepage": "https://github.com/BebeFumi/Group1#readme"
+}
